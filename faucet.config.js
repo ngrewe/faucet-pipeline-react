@@ -3,6 +3,6 @@ module.exports = {
 		source: "./index.jsx",
 		target: "./dist/index.js",
 		jsx: true,
-		esnext: true,
+		esnext: {exclude: ["*"]}
 	}]
 };
