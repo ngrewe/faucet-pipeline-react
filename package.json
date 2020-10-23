@@ -1,7 +1,6 @@
 {
   "devDependencies": {
-    "faucet-pipeline-jsx": "2.1.6",
-    "faucet-pipeline-static": "1.2.0"
+    "faucet-pipeline-essugar": "0.0.3"
   },
   "dependencies": {
     "react": "16.13.1",
